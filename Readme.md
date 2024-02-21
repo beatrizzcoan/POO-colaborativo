@@ -34,8 +34,7 @@ Atualiza as alterações feitas por si ou por outros coloboradores
 ```bash
 git pull
 ```
-### commit 
-### pull
+
 ### push
 ### log 
 ### restore
