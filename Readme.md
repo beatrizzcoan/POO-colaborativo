@@ -5,7 +5,7 @@
 - Eduardo Bongiolo Madeira
 - Gean Luccas Xisto da Silva
 
-# Comandos git
+## Comandos git
 
 ### init
 ### status
