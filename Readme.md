@@ -9,3 +9,6 @@
 
 ### init
 ### status
+### add
+### commit 
+### pull
