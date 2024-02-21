@@ -3,4 +3,4 @@
 - João Guesser
 - Beatriz Coan Sobreda
 - Eduardo Bongiolo Madeira
-- Gean Luccas
+- Gean Luccas Xisto da Silva
