@@ -1,1 +1,3 @@
-Aula de POO
+# Aula de POO
+
+- Beatriz Coan Sobreda
