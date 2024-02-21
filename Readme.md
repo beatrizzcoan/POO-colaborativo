@@ -8,7 +8,16 @@
 ## Comandos git
 
 ### init
+Inicia um repositório Git dentro da Pasta
+```bash
+git init
+```
+
 ### status
+Verifica se houve alterações no repositório Git local.
+```bash
+git status
+```
 
 ### add
 Adiciona o conteúdo do arquivo ao índice 
