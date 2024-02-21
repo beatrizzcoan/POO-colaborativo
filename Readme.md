@@ -12,3 +12,6 @@
 ### add
 ### commit 
 ### pull
+### push
+### log 
+### restore
